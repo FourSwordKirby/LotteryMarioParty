@@ -1,0 +1,28 @@
+Setups for mario party:
+P1:
+Up: 1 
+Down: 2
+Left: 3
+Right: 4
+A: 5
+
+P2:
+Up: 6 
+Down: 7
+Left: 8
+Right: 9
+A: 0
+
+P3:
+Up: W
+Down: S
+Left: A
+Right: D
+A: q
+
+P4:
+Up: Up 
+Down: Down
+Left: Left
+Right: Right
+A: Space
